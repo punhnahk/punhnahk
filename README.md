@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven IT student at the University of Greenwich Vietnam with experience in full-stack engineering. Skilled in React, Node.js, .NET Core, and ASP.NET. Collaborative and committed to delivering high-quality, user-centric solutions. I stay updated with industry trends to ensure cutting-edge expertise.
+Hi, I'm Phung Khanh. Results-driven IT student at the University of Greenwich Vietnam with experience in full-stack engineering. Skilled in React, Node.js, .NET Core, and ASP.NET. Collaborative and committed to delivering high-quality, user-centric solutions. I stay updated with industry trends to ensure cutting-edge expertise.
 
 
 ## 🌐 Socials:
