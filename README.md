@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Phung Khanh. Results-driven IT student at the University of Greenwich Vietnam with experience in full-stack engineering. Skilled in React, Node.js, .NET Core, and ASP.NET. Collaborative and committed to delivering high-quality, user-centric solutions. I stay updated with industry trends to ensure cutting-edge expertise.
-
+Recent IT graduate from the University of Greenwich Vietnam with hands-on experience in full-stack web development using the MERN stack. Solid foundation in JavaScript, ReactJS, and ExpressJS. Eager to contribute to real-world projects as a junior developer, grow through collaboration and mentorship, and eventually become a skilled software engineer delivering impactful web solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.com/noellll.2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noelisme2003/) 
